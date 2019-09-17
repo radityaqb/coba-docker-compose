@@ -1,4 +1,4 @@
-Hi kawan2 Buyer Growth Platform Tech Tribe!
+Hi kawan2!
 
 Tugas kalian adalah membuat dua buah API set dan get ke dalam redis dan db docker
 
